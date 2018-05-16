@@ -46,3 +46,5 @@ steps to generate a hashfile from the heapfile:
 java hashload 4096
 
 then query:
+
+java hashquery "Werby Wares" 4096
