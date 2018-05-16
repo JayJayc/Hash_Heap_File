@@ -42,3 +42,6 @@ java dbquery "mf engineering" 4096
 
 steps to generate a hashfile from the heapfile:
 ------
+
+java hashload 4096
+
